@@ -1,2 +1,3 @@
-require("naboo.remap")
-print("hello from naboo")
+require("naboo.plugins")
+require("naboo.core")
+require("naboo.plugins.lsp")

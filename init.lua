@@ -1,2 +1,4 @@
-require("naboo")
-print("hello, world")
+require("naboo.core")
+require("naboo.lazy")
+require("naboo.remap")
+
